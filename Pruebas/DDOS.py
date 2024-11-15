@@ -81,7 +81,7 @@ time.sleep(3)
 sent = 0
 
 # Definir una tasa base y un factor de incremento exponencial
-base_rate = 0.1  # Paquetes por segundo
+base_rate = 0.2  # Paquetes por segundo
 exponential_factor = 2  # Factor de incremento exponencial
 
 try:
